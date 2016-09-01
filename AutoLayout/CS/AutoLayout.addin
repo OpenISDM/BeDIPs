@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AutoLayout</Name>
+    <Assembly>AutoLayout.dll</Assembly>
+    <ClientId>301d89e5-a159-47f1-94f3-48b6c6b21405</ClientId>
+    <FullClassName>Revit.SDK.Samples.AutoLayout.CS.ExternalApp</FullClassName>
+    <Text>AutoLayout</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
